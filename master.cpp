@@ -12,7 +12,7 @@ int main() {
     int times;
     // This statement prints "Hello World"
     cout << "Please write Short Santance: \n";
-    cin >> sant;
+    getline(cin, sant);
     cout << sant <<endl;
     cout << "How many times you want to print it ?" ;
     cin >> times;    
