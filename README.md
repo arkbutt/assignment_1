@@ -1,0 +1,4 @@
+-- Input string from user
+-- How many times user want to print
+-- ask question about saving into file
+-- print list and save into file
